@@ -72,33 +72,7 @@
     <div class="container">
         <div class="row">
            <div class="col-lg-4">
-                <div class="account-usd text-left">
-                    <ul>
-                        <li><a href="account.html">My Account <i class="fa fa-angle-down"></i></a>
-                            <ul class="submenu-mainmenu">
-                                <li><a href="#"><i class="fa fa-circle"></i>Login</a></li>
-                                <li><a href="account.html"><i class="fa fa-circle"></i>My Account</a></li>
-                                <li><a href="wishlist.html"><i class="fa fa-circle"></i>My Wishlist</a></li>
-                                <li><a href="cart.html"><i class="fa fa-circle"></i>My Cart</a></li>
-                                <li><a href="checkout.html"><i class="fa fa-circle"></i>Checkout</a></li>
-                            </ul>
-                        </li>
-                        <li class="currency"><a href="#">USD <i class="fa fa-angle-down"></i></a>
-                            <ul class="submenu-mainmenu">
-                                <li><a href="#"><i class="fa fa-dollar"></i>USD</a></li>
-                                <li><a href="#"><i class="fa fa-euro"></i>EURO</a></li>
-                                <li><a href="#"><i class="fa fa-gbp"></i>GBP</a></li>
-                            </ul>
-                        </li>
-                        <li class="language"><a href="#"><img src="img/icon/eng.png" alt="">English <i class="fa fa-angle-down"></i></a>
-                            <ul class="submenu-mainmenu">
-                                <li><a href="#"><img src="img/icon/eng.jpg" alt="">English</a></li>
-                                <li><a href="#"><img src="img/icon/ger.jpg" alt="">German</a></li>
-                                <li><a href="#"><img src="img/icon/fren.jpg" alt="">French</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
+               
            </div>
            <div class="col-lg-4">
                <div class="social-icons text-center">
@@ -220,16 +194,16 @@
                     
                 </li>
              
-                <li class="shop"><a href="shop-grid-right-sidebar.html">Shop</a>
+                <li><a href="shop.php">Shop</a>
                     
                 </li>
-                <li><a href="#">About US</a></li>
+                <li><a href="aboutus.php">About US</a></li>
                 <li><a href="#">Gallery<span><img src="img/icon/hot.png" alt=""></span></a>
                     
                 </li>
                 
               
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
     </nav>                  

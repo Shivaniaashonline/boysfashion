@@ -18,7 +18,7 @@
                 <?php include 'header.php';?>
                     
 
-                <section class="about_us">
+                <section class="about_us mt-5">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 mt-5">
