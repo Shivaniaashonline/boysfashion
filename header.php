@@ -1,7 +1,7 @@
 
  <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Home Page || shofixe</title>
+        <title>Home Page || boysfashion</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
@@ -216,94 +216,15 @@
     <nav>
         <div class="mainmenu">
             <ul>
-                <li><a href="index.html">Home</a>
-                    <div class="mega-menu two">
-                        <span>
-                            <a class="title" href="#">Home Versions</a>
-                            <a href="index.html"><i class="fa fa-circle"></i>Slider One</a> 
-                            <a href="index-2.html"><i class="fa fa-circle"></i>Slider Two</a> 
-                            <a href="index-3.html"><i class="fa fa-circle"></i>Fixed Image</a> 
-                            <a href="index-4.html"><i class="fa fa-circle"></i>Animated Text</a> 
-                            <a href="index-15.html"><i class="fa fa-circle"></i>Video Background 1</a>
-                            <a href="index-16.html"><i class="fa fa-circle"></i>Video Background 2</a>
-                            <a href="index-17.html"><i class="fa fa-circle"></i>Parallax 1</a>
-                            <a href="index-18.html"><i class="fa fa-circle"></i>Parallax 2</a> 
-                        </span>
-                        <span>
-                            <a class="title" href="#">Home Versions</a>  
-                            <a href="index-19.html"><i class="fa fa-circle"></i>Box Layout 1</a> 
-                            <a href="index-20.html"><i class="fa fa-circle"></i>Box Layout 2</a> 
-                            <a href="index-21.html"><i class="fa fa-circle"></i>Box Layout 3</a> 
-                            <a href="index-22.html"><i class="fa fa-circle"></i>Box Layout 4</a> 
-                            <a href="index-5.html"><i class="fa fa-circle"></i>Rotate Text 1</a> 
-                            <a href="index-6.html"><i class="fa fa-circle"></i>Rotate Text 2</a>
-                            <a href="index-7.html"><i class="fa fa-circle"></i>Rotate Text 3</a> 
-                            <a href="index-8.html"><i class="fa fa-circle"></i>Rotate Text 4</a> 
-                        </span>
-                        <span>
-                            <a class="title" href="#">Home Versions</a>  
-                            <a href="index-9.html"><i class="fa fa-circle"></i>Rotate Text 5</a> 
-                            <a href="index-10.html"><i class="fa fa-circle"></i>Rotate Text 6</a> 
-                            <a href="index-11.html"><i class="fa fa-circle"></i>Rotate Text 7</a> 
-                            <a href="index-12.html"><i class="fa fa-circle"></i>Rotate Text 8</a> 
-                            <a href="index-13.html"><i class="fa fa-circle"></i>Rotate Text 9</a> 
-                            <a href="index-14.html"><i class="fa fa-circle"></i>Rotate Text 10</a> 
-                            <a href="index-23.html"><i class="fa fa-circle"></i>Rotate Text 11</a> 
-                            <a href="index-24.html"><i class="fa fa-circle"></i>Rotate Text 12</a> 
-                        </span>
-                    </div>
+                <li><a href="index.php">Home</a>
+                    
                 </li>
-                <li><a href="index.html">Features</a>
-                    <ul class="submenu-mainmenu">
-                        <li><a href="parallax-one.html"><i class="fa fa-circle"></i>Sliders<i class="fa fa-angle-right"></i></a>
-                            <ul class="sub-submenu-mainmenu">
-                                <li><a href="slider-one.html"><i class="fa fa-circle"></i>Slider One</a></li>
-                                <li><a href="slider-two.html"><i class="fa fa-circle"></i>Slider Two</a></li>
-                                <li><a href="video-one.html"><i class="fa fa-circle"></i>Video One</a></li>
-                                <li><a href="video-two.html"><i class="fa fa-circle"></i>Video Two</a></li>
-                                <li><a href="parallax-one.html"><i class="fa fa-circle"></i>Parallax One</a></li>
-                                <li><a href="parallax-two.html"><i class="fa fa-circle"></i>Parallax Two</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="menu-default.html"><i class="fa fa-circle"></i>Menu Style<i class="fa fa-angle-right"></i></a>
-                            <ul class="sub-submenu-mainmenu">
-                                <li><a href="menu-default.html"><i class="fa fa-circle"></i>Menu Style One</a></li>
-                                <li><a href="menu-style-two.html"><i class="fa fa-circle"></i>Menu Style Two</a></li>
-                                <li><a href="menu-style-three.html"><i class="fa fa-circle"></i>Menu Style Three</a></li>
-                                <li><a href="menu-style-four.html"><i class="fa fa-circle"></i>Menu Style Four</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="title-one.html"><i class="fa fa-circle"></i>Page Title<i class="fa fa-angle-right"></i></a>
-                            <ul class="sub-submenu-mainmenu">
-                                <li><a href="title-one.html"><i class="fa fa-circle"></i>Title Style One</a></li>
-                                <li><a href="title-two.html"><i class="fa fa-circle"></i>Title Style Two</a></li>
-                                <li><a href="title-three.html"><i class="fa fa-circle"></i>Title Style Three</a></li>
-                                <li><a href="title-four.html"><i class="fa fa-circle"></i>Title Style Four</a></li>
-                                <li><a href="title-five.html"><i class="fa fa-circle"></i>Title Style Five</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="index-4.html"><i class="fa fa-circle"></i>Footer<i class="fa fa-angle-right right"></i></a>
-                            <ul class="sub-submenu-mainmenu">
-                                <li><a href="footer-one.html"><i class="fa fa-circle"></i>Footer Style One</a></li>
-                                <li><a href="footer-two.html"><i class="fa fa-circle"></i>Footer Style Two</a></li>
-                                <li><a href="footer-three.html"><i class="fa fa-circle"></i>Footer Style Three</a></li>
-                                <li><a href="footer-four.html"><i class="fa fa-circle"></i>Footer Style Four</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
+             
                 <li class="shop"><a href="shop-grid-right-sidebar.html">Shop</a>
-                    <ul class="submenu-mainmenu">
-                        <li><a href="shop.html"><i class="fa fa-circle"></i>Shop</a></li>
-                        <li><a href="shop-grid-left-sidebar.html"><i class="fa fa-circle"></i>Shop Grid Left Sidebar</a></li>
-                        <li><a href="shop-grid-right-sidebar.html"><i class="fa fa-circle"></i>Shop Grid Right Sidebar</a></li>
-                        <li><a href="shop-list-left-sidebar.html"><i class="fa fa-circle"></i>Shop List Left Sidebar</a></li>
-                        <li><a href="shop-list-right-sidebar.html"><i class="fa fa-circle"></i>Shop List Right Sidebar</a></li>
-                        <li><a href="product-details.html"><i class="fa fa-circle"></i>Product Details</a></li>
-                    </ul>
+                    
                 </li>
-                <li><a href="#">Men</a></li>
-                <li><a href="#">Women<span><img src="img/icon/hot.png" alt=""></span></a>
+                <li><a href="#">About US</a></li>
+                <li><a href="#">Gallery<span><img src="img/icon/hot.png" alt=""></span></a>
                     <div class="mega-menu">
                         <span>
                             <a href="shop-left-sidebar.html" class="title">Category</a>
@@ -334,55 +255,7 @@
                         </span>
                     </div>
                 </li>
-                <li class="shortcode"><a href="#">Shortcode</a>
-                    <div class="mega-menu">
-                        <span>
-                            <a class="title" href="shop-grid-left-sidebar.html">Shortcode</a>
-                            <a href="shortcode-alert.html"><i class="fa fa-circle"></i>alert</a>
-                            <a href="shortcode-breadcrumb.html"><i class="fa fa-circle"></i>breadcrumb</a>
-                            <a href="shortcode-button.html"><i class="fa fa-circle"></i>button</a>
-                            <a href="shortcode-blog.html"><i class="fa fa-circle"></i>blog</a>
-                            <a href="shortcode-client.html"><i class="fa fa-circle"></i>client</a>
-                            <a href="shortcode-contact.html"><i class="fa fa-circle"></i>contact</a>
-                        </span>
-                        <span>
-                            <a class="title" href="shop-grid-left-sidebar.html">Shortcode</a>
-                            <a href="shortcode-dropdown.html"><i class="fa fa-circle"></i>dropdown</a>
-                            <a href="shortcode-newsletter.html"><i class="fa fa-circle"></i>newsletter</a>
-                            <a href="shortcode-product.html"><i class="fa fa-circle"></i>product</a>
-                            <a href="shortcode-map.html"><i class="fa fa-circle"></i>map</a>
-                            <a href="shortcode-offer.html"><i class="fa fa-circle"></i>offer</a>
-                            <a href="shortcode-pagination.html"><i class="fa fa-circle"></i>pagination</a>
-                        </span>
-                        <span>
-                            <a class="title" href="shop-grid-left-sidebar.html">Shortcode</a>
-                            <a href="shortcode-progressbar.html"><i class="fa fa-circle"></i>progressbar</a>
-                            <a href="shortcode-services.html"><i class="fa fa-circle"></i>services</a>
-                            <a href="shortcode-testimonial.html"><i class="fa fa-circle"></i>testimonial</a>
-                            <a href="shortcode-slider-bottom.html"><i class="fa fa-circle"></i>Slider Bottom</a>
-                            <a href="shortcode-off-banner.html"><i class="fa fa-circle"></i>Off Banner</a>
-                            <a href="shortcode-featured.html"><i class="fa fa-circle"></i>feature</a>
-                        </span>
-                        <span>
-                            <a class="title" href="shop-grid-left-sidebar.html">Shortcode</a>
-                            <a href="slider-one.html"><i class="fa fa-circle"></i>Slider 1</a>
-                            <a href="slider-two.html"><i class="fa fa-circle"></i>Slider 2</a>
-                            <a href="video-one.html"><i class="fa fa-circle"></i>Bg Video 1</a>
-                            <a href="video-two.html"><i class="fa fa-circle"></i>Bg Video 2</a>
-                            <a href="parallax-one.html"><i class="fa fa-circle"></i>Parallax 1</a>
-                            <a href="parallax-two.html"><i class="fa fa-circle"></i>Parallax 2</a>
-                        </span>
-                        <span>
-                            <a class="title" href="shop-grid-left-sidebar.html">Shortcode</a>
-                            <a href="rotate-text-one.html"><i class="fa fa-circle"></i>Rotate Text 1</a>
-                            <a href="rotate-text-two.html"><i class="fa fa-circle"></i>Rotate Text 2</a>
-                            <a href="rotate-text-three.html"><i class="fa fa-circle"></i>Rotate Text 3</a>
-                            <a href="rotate-text-four.html"><i class="fa fa-circle"></i>Rotate Text 4</a>
-                            <a href="rotate-text-five.html"><i class="fa fa-circle"></i>Rotate Text 5</a>
-                            <a href="rotate-text-six.html"><i class="fa fa-circle"></i>Rotate Text 6</a>
-                        </span>
-                    </div>
-                </li>
+                
                 <li class="dropdown"><a href="shop.html">Pages</a>
                     <ul class="submenu-mainmenu">
                         <li><a href="cart.html"><i class="fa fa-circle"></i>Cart</a></li>
@@ -486,13 +359,7 @@
                                     <li><a href="shortcode-featured.html">featured</a></li>
                                 </ul>
                             </li>
-                            <li><a href="cart.html">Pages</a>
-                                <ul>
-                                    <li><a href="cart.html">Cart</a></li>
-                                    <li><a href="checkout.html">Checkout</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                </ul>
-                            </li>
+                          
                             <li><a href="contact.html">Contact</a></li>
                         </ul>
                     </nav>
