@@ -37,7 +37,7 @@
                 <section class="about_us">
                     <div class="container">
                         <div class="row">
-                         <div class="col-md-3 pt-5 pb-5">
+                         <div class="col-md-3 pt-5 pb-4">
                             <img src="img/product/ab-1.jpg">
                          </div>
 
