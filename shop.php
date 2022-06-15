@@ -58,7 +58,7 @@
         
 		<!-- style CSS
 		============================================ -->
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/style.css">
         
 		<!-- responsive CSS
 		============================================ -->

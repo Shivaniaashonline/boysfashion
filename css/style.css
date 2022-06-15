@@ -3609,6 +3609,11 @@ h3.widget-title-modal{background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 .mobile-menu {
     position: relative;
 }
+
+.about_us p{
+    fon-size:16px;
+}
+
 .mean-container .mean-bar:before {
     color: #ffffff;
     content: "MENU";

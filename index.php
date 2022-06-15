@@ -14,7 +14,9 @@
         <div class="as-mainwrapper">
             <div class="bg-white">
                 <!-- header start -->
+
                 <?php include 'header.php';?>
+
                 <!-- header end -->
                 <!-- slider start -->
                 <div class="slider-wrap">
@@ -33,7 +35,7 @@
                                                 <div class="nivo_text-wrapper">
                                                     <div class="slider-content slider-text-1 text-left">
                                                         <div class="wow bounceInDown" data-wow-duration="3s" data-wow-delay="0.3s">
-                                                            <h2>Exclusive Collection</h2>
+                                                        <h2 class="text-uppercase">Brand New Collection</h2>
                                                         </div>
                                                     </div>
                                                     <div class="slider-content slider-text-2 text-left d-none d-md-block">
@@ -43,9 +45,7 @@
                                                     </div>
                                                     <div class="slider-content slider-text-3 text-left d-none d-md-block">
                                                         <div class="wow bounceInDown" data-wow-duration="3s" data-wow-delay="0.3s">
-                                                            <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-                                                                molestie <br>
-                                                                consequat vel illum dolore eu feugiat nulla facilisis at vero eros.</p>
+                                                            <p>India's One of the most Premium Fashion Hub</p>
                                                         </div>
                                                     </div>
                                                     <div class="slider-content slider-text-4 text-left">
@@ -75,14 +75,12 @@
                                                     </div>
                                                     <div class="slider-content slider-text-2 text-left d-none d-md-block">
                                                         <div class="wow bounceInDown" data-wow-duration="3s" data-wow-delay="0.3s">
-                                                            <h1 class="text-uppercase">For Women - 2019 </h1>
+                                                            <h1 class="text-uppercase">Shirt's For Men </h1>
                                                         </div>
                                                     </div>
                                                     <div class="slider-content slider-text-3 text-left d-none d-md-block">
                                                         <div class="wow bounceInDown" data-wow-duration="3s" data-wow-delay="0.3s">
-                                                            <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-                                                                molestie
-                                                                consequat vel illum dolore eu feugiat nulla facilisis at vero eros.</p>
+                                                            <p>India's One of the most Premium Fashion Hub</p>
                                                         </div>
                                                     </div>
                                                     <div class="slider-content slider-text-4 text-left">

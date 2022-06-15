@@ -54,7 +54,7 @@
         
 		<!-- style CSS
 		============================================ -->
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/style.css">
         
 		<!-- responsive CSS
 		============================================ -->
@@ -225,44 +225,10 @@
                 </li>
                 <li><a href="#">About US</a></li>
                 <li><a href="#">Gallery<span><img src="img/icon/hot.png" alt=""></span></a>
-                    <div class="mega-menu">
-                        <span>
-                            <a href="shop-left-sidebar.html" class="title">Category</a>
-                            <a href="#"><i class="fa fa-circle"></i>Men's Colletion</a>
-                            <a href="#"><i class="fa fa-circle"></i>Women's Colletion</a>
-                            <a href="#"><i class="fa fa-circle"></i>Kid's Colletion</a>
-                            <a href="#"><i class="fa fa-circle"></i>Bag's Colletion</a>
-                            <a href="#"><i class="fa fa-circle"></i>Shoes Colletion</a>
-                            <a href="#"><i class="fa fa-circle"></i>Accessories</a>
-                        </span>
-                        <span>
-                            <a href="shop-left-sidebar.html" class="title">Brands</a>
-                            <a href="#"><i class="fa fa-circle"></i>Zara</a>
-                            <a href="#"><i class="fa fa-circle"></i>Walmart</a>
-                            <a href="#"><i class="fa fa-circle"></i>Arong</a>
-                            <a href="#"><i class="fa fa-circle"></i>Rong</a>
-                            <a href="#"><i class="fa fa-circle"></i>Velloci</a>
-                            <a href="#"><i class="fa fa-circle"></i>Dolce &amp; Gabbana</a>
-                        </span>
-                        <span>
-                            <a href="shop-left-sidebar.html" class="title">Materials</a>
-                            <a href="#"><i class="fa fa-circle"></i>Cotton</a>
-                            <a href="#"><i class="fa fa-circle"></i>Cotton Blends</a>
-                            <a href="#"><i class="fa fa-circle"></i>Lilen</a>
-                            <a href="#"><i class="fa fa-circle"></i>Polister</a>
-                            <a href="#"><i class="fa fa-circle"></i>Polister Blends</a>
-                            <a href="#"><i class="fa fa-circle"></i>Jeans</a>
-                        </span>
-                    </div>
+                    
                 </li>
                 
-                <li class="dropdown"><a href="shop.html">Pages</a>
-                    <ul class="submenu-mainmenu">
-                        <li><a href="cart.html"><i class="fa fa-circle"></i>Cart</a></li>
-                        <li><a href="checkout.html"><i class="fa fa-circle"></i>Checkout</a></li>
-                        <li><a href="contact.html"><i class="fa fa-circle"></i>Contact</a></li>
-                    </ul>
-                </li>
+              
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
